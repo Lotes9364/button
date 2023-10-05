@@ -1,0 +1,35 @@
+.banafshe1{
+    text-decoration:none;
+    background-color:#FDE5EC;
+    color:#fff;
+    padding:10px;
+    text-align:center;
+    border-radius:6px;
+    box-shadow: 1px 5px 15px 1px #FCBAAD ;
+}
+.banaf{
+    width: 100px;
+    color: white;
+    border-radius: 6px;
+    font-weight: bold;
+    font-variant-caps:petite-caps;
+    background-color:#916DB3;
+    text-shadow:rgb(221, 198, 97) 1px 1px 10px 1px;
+    padding: 5px;
+    display:inline;
+    line-height: 20px;
+    border: ridge;
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    cursor: pointer;
+    text-decoration: none;
+    font-family:sans-serif;
+}
+.banaf:hover{
+    transform: scale(1.08);
+	transition: 5ms;
+    background-color: #A076F9;
+}
+.banaf:active{
+    transform: translate(2px,2px);
+}
